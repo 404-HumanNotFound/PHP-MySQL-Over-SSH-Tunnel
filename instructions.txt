@@ -1,0 +1,8 @@
+mkdir php-mysql-over-ssh-tunnel
+cd php-mysql-over-ssh-tunnel
+# copy PROMPT.md into this folder
+claude   # or cursor, cline, codex, etc.
+
+Then run the following:
+Read PROMPT.md in this directory and build the project it describes.
+
