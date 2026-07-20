@@ -1,0 +1,11 @@
+ export TUNNEL_TEST_SERVER=webdev.everosi.net
+ export TUNNEL_TEST_SSH_PORT=52219
+ export TUNNEL_TEST_LOCAL_PORT=3306
+ export TUNNEL_TEST_SSH_USER=mchaggis
+ export TUNNEL_TEST_SSH_KEY_PATH=~/.ssh/id_ed25519
+ export TUNNEL_TEST_SSH_BINARY_PATH=/usr/bin/ssh
+ export TUNNEL_TEST_REMOTE_PORT=3306
+ export TUNNEL_TEST_DB_USER=webaccess
+ export TUNNEL_TEST_DB_PASSWORD=d3v370pM3!
+ export TUNNEL_TEST_DB_NAME=csosi
+ php SMOKE_TEST.php
