@@ -1,0 +1,45 @@
+{
+    "name": "404-humannotfound/php-mysql-over-ssh-tunnel",
+    "description": "Framework-agnostic PHP library that establishes an SSH local-port-forward tunnel to a remote MySQL server and exposes the local port for application DB connections.",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/404-HumanNotFound/php-mysql-over-ssh-tunnel",
+    "authors": [
+        {
+            "name": "404-HumanNotFound",
+            "homepage": "https://github.com/404-HumanNotFound"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/404-HumanNotFound/php-mysql-over-ssh-tunnel/issues",
+        "source": "https://github.com/404-HumanNotFound/php-mysql-over-ssh-tunnel"
+    },
+    "require": {
+        "php": ">=8.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "suggest": {
+        "ext-posix": "Enables reliable PID liveness checks via posix_kill(); without it the library falls back to /proc/{pid} on Linux or reconnects when liveness is unknown.",
+        "psr/log": "Optional PSR-3 logger; when omitted, warnings go to error_log()."
+    },
+    "autoload": {
+        "psr-4": {
+            "HumanNotFound\\MysqlSshTunnel\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "HumanNotFound\\MysqlSshTunnel\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit --testsuite unit",
+        "test:integration": "phpunit --testsuite integration"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}
