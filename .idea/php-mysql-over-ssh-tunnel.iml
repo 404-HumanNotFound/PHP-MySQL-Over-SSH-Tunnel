@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/claudecode-fable5/src" isTestSource="false" packagePrefix="HumanNotFound\MysqlSshTunnel\" />
+      <sourceFolder url="file://$MODULE_DIR$/claudecode-fable5/tests" isTestSource="true" packagePrefix="HumanNotFound\MysqlSshTunnel\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/src" isTestSource="false" packagePrefix="HumanNotFound\MysqlSshTunnel\" />
+      <sourceFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/tests" isTestSource="true" packagePrefix="HumanNotFound\MysqlSshTunnel\Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-fable5/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/staabm/side-effects-detector" />
+      <excludeFolder url="file://$MODULE_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/theseer/tokenizer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/composer" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/claudecode-fable5/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/staabm/side-effects-detector" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/phpunit.xml" custom_loader_path="$PROJECT_DIR$/claudecode-opus4.8/php-mysql-over-ssh-tunnel/vendor/autoload.php" use_configuration_file="true" />
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/claudecode-fable5/phpunit.xml" custom_loader_path="$PROJECT_DIR$/claudecode-fable5/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
