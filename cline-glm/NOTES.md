@@ -1,0 +1,1 @@
+On the free tier, cline took an hour to burn through the credits available. Gave the impression of building things, yet after running oiut of credits and existing, not even a partial solution had been built. This indicates that cline undoes everything on exit.

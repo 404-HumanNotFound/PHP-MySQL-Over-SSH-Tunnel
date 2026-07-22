@@ -1,0 +1,42 @@
+{
+    "name": "404-humannotfound/php-mysql-over-ssh-tunnel",
+    "description": "Framework-agnostic PHP 8.2 library that establishes or reuses an SSH local-port-forward tunnel to a remote MySQL server and exposes the local port via global constants, with graceful direct-connection fallback on environmental failures.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["ssh", "tunnel", "mysql", "port-forward", "codeigniter", "laravel", "pdo", "mysqli"],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.2"
+    },
+    "suggest": {
+        "ext-posix": "Allows reliable PID liveness checks via posix_kill(). Without it, liveness falls back to /proc inspection (Linux) or to a port-open probe, and the library may reconnect instead of reusing a fixed-port tunnel."
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5 || ^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HumanNotFound\\MysqlSshTunnel\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "HumanNotFound\\MysqlSshTunnel\\Tests\\": "tests/"
+        }
+    },
+    "homepage": "https://github.com/404-HumanNotFound/php-mysql-over-ssh-tunnel",
+    "support": {
+        "issues": "https://github.com/404-HumanNotFound/php-mysql-over-ssh-tunnel/issues",
+        "source": "https://github.com/404-HumanNotFound/php-mysql-over-ssh-tunnel"
+    },
+    "authors": [
+        {
+            "name": "404-HumanNotFound"
+        }
+    ],
+    "scripts": {
+        "test": "phpunit",
+        "test:integration": "phpunit -c phpunit.integration.xml"
+    }
+}
